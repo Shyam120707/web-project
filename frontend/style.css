@@ -22,12 +22,37 @@ h1{
 }
 
 body{
-    background-color: rgb(177, 198, 235);
+    background-color: rgb(206, 220, 245);
+    margin: 0;
 }
 
 .card button{
     width: 70%;
     border-radius: 20px;
     padding: 10px;
+    margin-bottom: 10px;
 
+}
+
+.navbar{
+    text-align: center;
+    border-width: 3px;
+     border-color: black;
+     border: 3px solid black;
+     padding-bottom: 20px;
+     padding-top: 20px;
+     background-color: rgb(197, 195, 195);
+   
+}
+
+.navbar a{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.navbar a:hover{
+    color: black;
+    padding: 5px;
 }
