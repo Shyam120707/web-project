@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Shyam120707/web-project/issues"
   },
-  "homepage": "https://github.com/Shyam120707/web-project#readme"
+  "homepage": "https://github.com/Shyam120707/web-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
